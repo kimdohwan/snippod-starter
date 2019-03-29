@@ -1,6 +1,8 @@
 [submodule "snippod-starter-demo-app-front"]
 	path = snippod-starter-demo-app-front
-	url = git@github.com:shalomeir/snippod-starter-demo-app-front.git
+#	url = git@github.com:shalomeir/snippod-starter-demo-app-front.git
+	url = git@github.com:kimdohwan/snippod-starter-front.git
 [submodule "snippod-starter-demo-app-server"]
 	path = snippod-starter-demo-app-server
-	url = git@github.com:shalomeir/snippod-starter-demo-app-server.git
+#	url = git@github.com:shalomeir/snippod-starter-demo-app-server.git
+	url = git@github.com:kimdohwan/snippod-starter-server.git
